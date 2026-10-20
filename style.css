@@ -15,3 +15,8 @@ p {
   color: red;
   margin-left:30px; 
 }
+
+section {
+  display: block;
+  matgin: 50;
+}
