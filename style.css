@@ -2,12 +2,15 @@ body {
   background-color: style="background-color: rgb(0, 0, 55);"
 }
 h1 {
-  color: White;
+  color: Black;
   text-align:center;
 }
-
-h5 {
+h3 {
   color: White;
+  text-align:center;
+}  
+h5 {
+  color: Black;
   text-align:right;
 }
 
