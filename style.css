@@ -26,7 +26,5 @@ img {
   margin: 20px auto;
 }    
 section {
-    display: flex;
-    flex-direction: column; /* Stacks items vertically */
-    align-items: center;    /* Centers everything horizontally */
+    text-align: center;
 }
