@@ -17,13 +17,12 @@ h5 {
   color: Black;
   text-align:right;
 }
-
 p {
   color: red;
   margin-left:30px; 
 }
 img {
-  margin-center:30px
+  margin-center:90px
 }    
 div {
   display: block;
