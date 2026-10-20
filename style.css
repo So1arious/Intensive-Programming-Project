@@ -34,6 +34,12 @@ img {
 }    
 
 section {
-  color: white;
   text-align: center;
+}
+section h2, 
+section h3, 
+section p, 
+section li 
+{
+  color: white;
 }
