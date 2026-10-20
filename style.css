@@ -25,7 +25,6 @@ img {
   display: block;
   margin: 20px auto;
 }    
-div {
-  display: block;
-  text-align: center;
+.centered-section {
+    text-align: center;
 }
