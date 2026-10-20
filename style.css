@@ -25,6 +25,8 @@ img {
   display: block;
   margin: 20px auto;
 }    
-.centered-section {
-    text-align: center;
+section {
+    display: flex;
+    flex-direction: column; /* Stacks items vertically */
+    align-items: center;    /* Centers everything horizontally */
 }
