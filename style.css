@@ -26,5 +26,7 @@ img {
   margin-center:30px
 }    
 section {
-  text-align:center;
+  display: block;
+  margin: 50px;
+  text-align: center;
 }
